@@ -9,12 +9,12 @@ html{scroll-behavior:smooth}body{font-variant-numeric:tabular-nums}main{padding-
 /* The four-faction coaster artwork is taken from the supplied product screenshot. */
 :root{--surface-soft:#f0f3eb;--gold:#927644;--radius:10px}
 body{background:var(--bg)}
-header{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 202px;grid-template-areas:"top top" "copy emblem";gap:24px 36px;padding:24px 32px 32px;border:1px solid var(--line);border-radius:var(--radius);background:var(--paper);overflow:visible}
+header{position:relative;display:grid;grid-template-columns:290px minmax(0,1fr);grid-template-areas:"top top" "emblem copy";gap:20px 38px;padding:24px 32px 32px;border:1px solid var(--line);border-radius:var(--radius);background:var(--paper);overflow:visible}
 .headerline{grid-area:top;padding-bottom:16px;border-bottom:1px solid var(--line);gap:16px}
 .headerline .eyebrow{font-size:11px;letter-spacing:1.25px}
 .headerline label>span{display:none}.headerline select{padding:6px 10px;background:var(--paper)}
-.heroCopy{grid-area:copy;align-self:center;min-width:0;padding:0}.heroCopy h1{font-size:clamp(27px,2.7vw,36px);line-height:1.2;letter-spacing:-.025em;margin:0 0 16px}.heroCopy .muted{max-width:65ch;line-height:1.7}
-.heroEmblem{grid-area:emblem;justify-self:end;align-self:center;width:min(100%,190px);margin:0;padding:6px;border:1px solid #ded8c6;border-radius:2px;background:#f1ecde;box-shadow:0 9px 24px #26332f1b;transform:rotate(1.5deg)}
+.heroCopy{grid-area:copy;align-self:center;min-width:0;padding:0}.heroCopy h1{font-size:clamp(30px,3.4vw,42px);line-height:1.18;letter-spacing:-.025em;margin:0 0 16px}.heroCopy .muted{max-width:65ch;line-height:1.7;font-size:17px}
+.heroEmblem{grid-area:emblem;justify-self:start;align-self:center;width:290px;margin:0;padding:0 28px 0 0;border:0;border-right:1px solid var(--line);background:none;box-shadow:none;transform:none}
 .heroEmblem img{display:block;width:100%;height:auto;aspect-ratio:416/432;object-fit:cover}
 .scopeBadge{background:none;border:0;border-left:2px solid var(--gold);border-radius:0;padding:0 0 0 12px;margin-top:18px;color:var(--muted)}
 .nav{background:var(--bg);backdrop-filter:none;margin:12px 0 20px;padding:8px 0}.nav a{border-radius:4px}
@@ -22,9 +22,10 @@ header{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 202px;
 .metric{background:var(--surface-soft);border:0;border-radius:6px;padding:16px}.metric .value{color:var(--accent)}.metric .label{line-height:1.5}
 .controls{align-items:start;padding:16px 0;background:none;border:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);border-radius:0;gap:16px}.controls label{min-width:0}#weightLabel{max-width:320px;flex:1 1 240px}#weightHelp{font-size:12px;line-height:1.6;color:var(--muted);max-width:320px}#weight{width:100%;margin:8px 0}
 .laterPerson{background:var(--paper);border-radius:6px}.laterPortrait{border-radius:4px}
-@media(max-width:1024px){header{gap:24px;grid-template-columns:minmax(0,1fr) 168px;padding:24px}.heroEmblem{width:160px}.heroCopy h1{font-size:30px}}
-@media(max-width:767px){header{grid-template-columns:minmax(0,1fr) 112px;grid-template-areas:"top top" "copy emblem";gap:20px 12px;padding:20px}.heroEmblem{width:106px;align-self:start;padding:4px}.heroCopy h1{font-size:27px}.heroCopy .muted{font-size:14px}.scopeBadge{font-size:12px}.headerline .eyebrow{font-size:9px;letter-spacing:.8px}.laterGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:420px){header{grid-template-columns:minmax(0,1fr) 82px;padding:16px;gap:16px 8px}.heroCopy h1{font-size:25px}.heroEmblem{width:78px}.headerline{gap:8px}.headerline .eyebrow{max-width:180px;font-size:8px}.headerline select{font-size:12px;max-width:94px}.laterGrid{grid-template-columns:1fr}.controls label{flex-basis:100%}#weightLabel{max-width:none}.goalCard{display:block}.goalCard span{max-width:none;margin-top:4px}.metrics{gap:8px}.metric{padding:12px}.metric .value.countvalue{font-size:17px}.metric .label{font-size:12px}}
+@media(max-width:1024px){header{grid-template-columns:238px minmax(0,1fr);gap:20px 28px;padding:24px}.heroEmblem{width:238px;padding-right:20px}.heroCopy h1{font-size:34px}}
+@media(max-width:767px){header{grid-template-columns:190px minmax(0,1fr);gap:20px;padding:20px}.heroEmblem{width:190px;padding-right:16px}.heroCopy h1{font-size:29px}.heroCopy .muted{font-size:14px}.scopeBadge{font-size:12px}.headerline .eyebrow{font-size:9px;letter-spacing:.8px}.laterGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){header{grid-template-columns:1fr;grid-template-areas:"top" "copy" "emblem";gap:18px;padding:18px}.heroCopy h1{font-size:27px}.heroEmblem{width:min(64vw,220px);padding:0;border:0;justify-self:center}.scopeBadge{margin-top:14px}.headerline{gap:8px}.headerline .eyebrow{font-size:8px}.headerline select{font-size:12px;max-width:94px}}
+@media(max-width:420px){header{padding:16px}.heroCopy h1{font-size:25px}.heroEmblem{width:min(66vw,190px)}.headerline .eyebrow{max-width:180px}.laterGrid{grid-template-columns:1fr}.controls label{flex-basis:100%}#weightLabel{max-width:none}.goalCard{display:block}.goalCard span{max-width:none;margin-top:4px}.metrics{gap:8px}.metric{padding:12px}.metric .value.countvalue{font-size:17px}.metric .label{font-size:12px}}
 @media(prefers-reduced-motion:reduce){.goalCard{transition:none}}@media print{header{display:block;background:white}.heroEmblem{display:none}}
 @media(max-width:420px){.controls label{width:100%;max-width:100%}.controls select{width:100%;min-width:0}.chart{overflow:visible}.chart text{font-size:10px}}
 </style></head><body><main>
