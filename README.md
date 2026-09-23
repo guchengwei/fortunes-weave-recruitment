@@ -17,7 +17,7 @@ The screenshot-based thresholds are retained where supplementary guides disagree
 ## Data references
 
 - Recruitment conditions and portraits: recruitment tables dated 2026-09-22.
-- Header artwork: a desktop seal and mobile frieze generated from the supplied four-faction coaster screenshot. These are design interpretations and may differ in fine emblem details from the source.
+- Header artwork: one four-faction seal generated from the supplied coaster screenshot and shown as a light watermark on desktop and mobile. It is a design interpretation and may differ in fine emblem details from the source.
 - Supplementary requirements and English names: [RPG Site recruitment guide](https://www.rpgsite.net/guide/21391-fire-emblem-fortunes-weave-recruitment-guide-all-characters-in-game-how-to-recruit-them).
 - Japanese character names: AppMedia.
 
