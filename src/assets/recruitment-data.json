@@ -1,0 +1,1508 @@
+{
+  "routes": [
+    "凯伊",
+    "迪托利希",
+    "赛奥朵拉",
+    "蕾达"
+  ],
+  "characters": [
+    "丹提",
+    "乌修拉",
+    "乌尔坦德",
+    "亚历珊德拉",
+    "伊欧",
+    "佩佩",
+    "凯伊",
+    "努佐",
+    "努蒂奴",
+    "卡塔妮雅",
+    "古扎岚",
+    "哈尔温",
+    "哥莱亚斯",
+    "哪吒",
+    "嘉丝敏",
+    "大刀",
+    "奇洛伊卡",
+    "奥琳琵娅",
+    "妮涅",
+    "媞雅拉",
+    "巴卡尼亚",
+    "希蒙",
+    "托比亚斯",
+    "易尼奥尼",
+    "札可捏",
+    "杨界",
+    "杰斯塔",
+    "沙兰",
+    "法毕欧",
+    "波拿帕尔特",
+    "班迪兹",
+    "皮特鲁",
+    "盖茨",
+    "穆",
+    "米迦艾拉",
+    "索绯雅",
+    "绯亚娜",
+    "罗蕾塔",
+    "艾丝梅拉尔达",
+    "莉利安",
+    "莱桑达",
+    "蕾达",
+    "西提司",
+    "西洛可",
+    "诺克裘拉",
+    "赛奥朵拉",
+    "迪托利希",
+    "迪雅各",
+    "露露蒂雅",
+    "马吉迪"
+  ],
+  "targets": [
+    "丹提",
+    "乌修拉",
+    "乌尔坦德",
+    "亚历珊德拉",
+    "伊欧",
+    "佩佩",
+    "努佐",
+    "努蒂奴",
+    "卡塔妮雅",
+    "古扎岚",
+    "哈尔温",
+    "哥莱亚斯",
+    "哪吒",
+    "嘉丝敏",
+    "大刀",
+    "奇洛伊卡",
+    "奥琳琵娅",
+    "妮涅",
+    "媞雅拉",
+    "巴卡尼亚",
+    "希蒙",
+    "易尼奥尼",
+    "札可捏",
+    "杨界",
+    "杰斯塔",
+    "沙兰",
+    "法毕欧",
+    "班迪兹",
+    "皮特鲁",
+    "盖茨",
+    "穆",
+    "米迦艾拉",
+    "索绯雅",
+    "绯亚娜",
+    "罗蕾塔",
+    "艾丝梅拉尔达",
+    "莉利安",
+    "莱桑达",
+    "西提司",
+    "西洛可",
+    "诺克裘拉",
+    "迪雅各",
+    "露露蒂雅",
+    "马吉迪"
+  ],
+  "rows": [
+    {
+      "route": "凯伊",
+      "name": "古扎岚",
+      "status": "free",
+      "renown": 2,
+      "support": 0
+    },
+    {
+      "route": "凯伊",
+      "name": "杨界",
+      "status": "recruit",
+      "renown": 3,
+      "support": 2
+    },
+    {
+      "route": "凯伊",
+      "name": "诺克裘拉",
+      "status": "recruit",
+      "renown": 4,
+      "support": 1
+    },
+    {
+      "route": "凯伊",
+      "name": "马吉迪",
+      "status": "recruit",
+      "renown": 5,
+      "support": 2
+    },
+    {
+      "route": "凯伊",
+      "name": "米迦艾拉",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "哈尔温",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "努蒂奴",
+      "status": "recruit",
+      "renown": 6,
+      "support": 1
+    },
+    {
+      "route": "凯伊",
+      "name": "努佐",
+      "status": "recruit",
+      "renown": 6,
+      "support": 2
+    },
+    {
+      "route": "凯伊",
+      "name": "哪吒",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "西提司",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "妮涅",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "亚历珊德拉",
+      "status": "recruit",
+      "renown": 7,
+      "support": 2
+    },
+    {
+      "route": "凯伊",
+      "name": "艾丝梅拉尔达",
+      "status": "recruit",
+      "renown": 7,
+      "support": 2
+    },
+    {
+      "route": "凯伊",
+      "name": "罗蕾塔",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "哥莱亚斯",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "嘉丝敏",
+      "status": "recruit",
+      "renown": 8,
+      "support": 1
+    },
+    {
+      "route": "凯伊",
+      "name": "易尼奥尼",
+      "status": "recruit",
+      "renown": 8,
+      "support": 1
+    },
+    {
+      "route": "凯伊",
+      "name": "莉利安",
+      "status": "recruit",
+      "renown": 8,
+      "support": 2
+    },
+    {
+      "route": "凯伊",
+      "name": "莱桑达",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "奇洛伊卡",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "希蒙",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "绯亚娜",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "札可捏",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "大刀",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "奥琳琵娅",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "佩佩",
+      "status": "recruit",
+      "renown": 9,
+      "support": 1
+    },
+    {
+      "route": "凯伊",
+      "name": "班迪兹",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "西洛可",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "索绯雅",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "穆",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "露露蒂雅",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "丹提",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "迪雅各",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "乌修拉",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "杰斯塔",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "伊欧",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "卡塔妮雅",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "凯伊",
+      "name": "凯伊",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "媞雅拉",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "皮特鲁",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "乌尔坦德",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "迪托利希",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "法毕欧",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "赛奥朵拉",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "托比亚斯",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "波拿帕尔特",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "蕾达",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "巴卡尼亚",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "沙兰",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "凯伊",
+      "name": "盖茨",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "杨界",
+      "status": "free",
+      "renown": 2,
+      "support": 0
+    },
+    {
+      "route": "迪托利希",
+      "name": "伊欧",
+      "status": "recruit",
+      "renown": 3,
+      "support": 2
+    },
+    {
+      "route": "迪托利希",
+      "name": "奇洛伊卡",
+      "status": "recruit",
+      "renown": 4,
+      "support": 1
+    },
+    {
+      "route": "迪托利希",
+      "name": "努蒂奴",
+      "status": "recruit",
+      "renown": 5,
+      "support": 2
+    },
+    {
+      "route": "迪托利希",
+      "name": "乌尔坦德",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "诺克裘拉",
+      "status": "recruit",
+      "renown": 6,
+      "support": 1
+    },
+    {
+      "route": "迪托利希",
+      "name": "莱桑达",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "奥琳琵娅",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "哥莱亚斯",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "杰斯塔",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "班迪兹",
+      "status": "recruit",
+      "renown": 7,
+      "support": 2
+    },
+    {
+      "route": "迪托利希",
+      "name": "希蒙",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "乌修拉",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "札可捏",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "穆",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "绯亚娜",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "卡塔妮雅",
+      "status": "recruit",
+      "renown": 8,
+      "support": 1
+    },
+    {
+      "route": "迪托利希",
+      "name": "莉利安",
+      "status": "recruit",
+      "renown": 8,
+      "support": 2
+    },
+    {
+      "route": "迪托利希",
+      "name": "丹提",
+      "status": "recruit",
+      "renown": 8,
+      "support": 2
+    },
+    {
+      "route": "迪托利希",
+      "name": "亚历珊德拉",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "皮特鲁",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "妮涅",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "巴卡尼亚",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "佩佩",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "古扎岚",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "易尼奥尼",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "马吉迪",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "努佐",
+      "status": "recruit",
+      "renown": 9,
+      "support": 1
+    },
+    {
+      "route": "迪托利希",
+      "name": "媞雅拉",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "迪雅各",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "罗蕾塔",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "露露蒂雅",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "西洛可",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "哈尔温",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "嘉丝敏",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "索绯雅",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "盖茨",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "哪吒",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "大刀",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "沙兰",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "迪托利希",
+      "name": "迪托利希",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "法毕欧",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "艾丝梅拉尔达",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "米迦艾拉",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "凯伊",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "赛奥朵拉",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "托比亚斯",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "波拿帕尔特",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "蕾达",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "迪托利希",
+      "name": "西提司",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "索绯雅",
+      "status": "free",
+      "renown": 2,
+      "support": 0
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "诺克裘拉",
+      "status": "recruit",
+      "renown": 3,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "札可捏",
+      "status": "recruit",
+      "renown": 4,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "西洛可",
+      "status": "recruit",
+      "renown": 5,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "大刀",
+      "status": "recruit",
+      "renown": 5,
+      "support": 2
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "努蒂奴",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "罗蕾塔",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "努佐",
+      "status": "recruit",
+      "renown": 6,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "亚历珊德拉",
+      "status": "recruit",
+      "renown": 6,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "哪吒",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "乌尔坦德",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "丹提",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "西提司",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "妮涅",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "佩佩",
+      "status": "recruit",
+      "renown": 7,
+      "support": 2
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "哈尔温",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "皮特鲁",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "希蒙",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "露露蒂雅",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "卡塔妮雅",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "班迪兹",
+      "status": "recruit",
+      "renown": 8,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "迪雅各",
+      "status": "recruit",
+      "renown": 8,
+      "support": 2
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "米迦艾拉",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "巴卡尼亚",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "古扎岚",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "马吉迪",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "嘉丝敏",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "易尼奥尼",
+      "status": "recruit",
+      "renown": 9,
+      "support": 1
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "杨界",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "穆",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "奥琳琵娅",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "绯亚娜",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "乌修拉",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "艾丝梅拉尔达",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "哥莱亚斯",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "杰斯塔",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "媞雅拉",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "奇洛伊卡",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "伊欧",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "赛奥朵拉",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "托比亚斯",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "波拿帕尔特",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "莉利安",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "莱桑达",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "凯伊",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "迪托利希",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "法毕欧",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "蕾达",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "盖茨",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "赛奥朵拉",
+      "name": "沙兰",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "卡塔妮雅",
+      "status": "free",
+      "renown": 2,
+      "support": 0
+    },
+    {
+      "route": "蕾达",
+      "name": "古扎岚",
+      "status": "recruit",
+      "renown": 3,
+      "support": 1
+    },
+    {
+      "route": "蕾达",
+      "name": "奇洛伊卡",
+      "status": "recruit",
+      "renown": 4,
+      "support": 1
+    },
+    {
+      "route": "蕾达",
+      "name": "嘉丝敏",
+      "status": "recruit",
+      "renown": 4,
+      "support": 2
+    },
+    {
+      "route": "蕾达",
+      "name": "大刀",
+      "status": "recruit",
+      "renown": 5,
+      "support": 2
+    },
+    {
+      "route": "蕾达",
+      "name": "札可捏",
+      "status": "recruit",
+      "renown": 5,
+      "support": 2
+    },
+    {
+      "route": "蕾达",
+      "name": "绯亚娜",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "罗蕾塔",
+      "status": "recruit",
+      "renown": 5,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "伊欧",
+      "status": "recruit",
+      "renown": 6,
+      "support": 1
+    },
+    {
+      "route": "蕾达",
+      "name": "艾丝梅拉尔达",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "米迦艾拉",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "希蒙",
+      "status": "recruit",
+      "renown": 6,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "易尼奥尼",
+      "status": "recruit",
+      "renown": 7,
+      "support": 1
+    },
+    {
+      "route": "蕾达",
+      "name": "莉利安",
+      "status": "recruit",
+      "renown": 7,
+      "support": 2
+    },
+    {
+      "route": "蕾达",
+      "name": "莱桑达",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "哈尔温",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "索绯雅",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "班迪兹",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "露露蒂雅",
+      "status": "recruit",
+      "renown": 7,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "媞雅拉",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "杨界",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "迪雅各",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "诺克裘拉",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "乌尔坦德",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "沙兰",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "妮涅",
+      "status": "recruit",
+      "renown": 8,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "哪吒",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "努佐",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "法毕欧",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "马吉迪",
+      "status": "recruit",
+      "renown": 9,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "皮特鲁",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "哥莱亚斯",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "丹提",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "杰斯塔",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "西提司",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "亚历珊德拉",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "努蒂奴",
+      "status": "recruit",
+      "renown": 10,
+      "support": 3
+    },
+    {
+      "route": "蕾达",
+      "name": "蕾达",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "巴卡尼亚",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "西洛可",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "穆",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "奥琳琵娅",
+      "status": "story",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "凯伊",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "迪托利希",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "赛奥朵拉",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "托比亚斯",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "波拿帕尔特",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "佩佩",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "乌修拉",
+      "status": "no",
+      "renown": null,
+      "support": null
+    },
+    {
+      "route": "蕾达",
+      "name": "盖茨",
+      "status": "no",
+      "renown": null,
+      "support": null
+    }
+  ]
+}

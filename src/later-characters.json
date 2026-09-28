@@ -1,0 +1,146 @@
+[
+  {
+    "zh": "奥谢尔",
+    "en": "Orchel",
+    "ja": "オルヘル",
+    "notes": {
+      "zh": "第 3 部第 1 节自动加入；攻略建议在第 1 部完成其外传。",
+      "ja": "第3部・第1区分で自動加入。攻略では第1部での外伝クリアを推奨。",
+      "en": "Automatic in Part III, Section 1. The guide recommends completing their paralogue in Part I."
+    },
+    "portrait_file": "later-portraits/orchel.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/183400_4vzdn.webp"
+  },
+  {
+    "zh": "塔利蒙",
+    "en": "Talimun",
+    "ja": "タリムーン",
+    "notes": {
+      "zh": "第 3 部第 1 节自动加入；攻略建议在第 1 部完成其外传。",
+      "ja": "第3部・第1区分で自動加入。攻略では第1部での外伝クリアを推奨。",
+      "en": "Automatic in Part III, Section 1. The guide recommends completing their paralogue in Part I."
+    },
+    "portrait_file": "later-portraits/talimun.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/115602_hozf4.webp"
+  },
+  {
+    "zh": "阿纳托利亚",
+    "en": "Anatolia",
+    "ja": "アナトリア",
+    "notes": {
+      "zh": "第 3 部第 1 节自动加入；攻略建议在第 1 部完成其外传。",
+      "ja": "第3部・第1区分で自動加入。攻略では第1部での外伝クリアを推奨。",
+      "en": "Automatic in Part III, Section 1. The guide recommends completing their paralogue in Part I."
+    },
+    "portrait_file": "later-portraits/anatolia.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/115557_13ypf.webp"
+  },
+  {
+    "zh": "贝特朗",
+    "en": "Bertrand",
+    "ja": "ベルトラン",
+    "notes": {
+      "zh": "第 2 部作为客座单位加入，第 3 部正式加入；攻略建议在第 1 部完成其外传。",
+      "ja": "第2部はゲスト、第3部で正式加入。第1部の外伝クリアを推奨。",
+      "en": "Guest in Part II; permanent unit in Part III. Completing his Part I paralogue is recommended."
+    },
+    "portrait_file": "later-portraits/bertrand.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/115605_c6udr.webp"
+  },
+  {
+    "zh": "克里克",
+    "en": "Creek",
+    "ja": "キリーク",
+    "notes": {
+      "zh": "第 1 部完成 My Late Sister’s Accessory；第 2 部第 2 章击败后加入。攻略未确定每条路线是否均能接到前置任务。",
+      "ja": "第1部で「亡き妹の装身具」を完了し、第2部2章で撃破。全ルートで前提クエストを受けられるかは未確認。",
+      "en": "Complete My Late Sister’s Accessory in Part I, then defeat him in Part II, Chapter 2. The guide does not confirm quest availability on every route."
+    },
+    "portrait_file": "later-portraits/creek.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/115558_u5dg9.webp"
+  },
+  {
+    "zh": "内森",
+    "en": "Nathan",
+    "ja": "ネイサン",
+    "notes": {
+      "zh": "第 2 部第 3 章，由克里克完成最后一击。",
+      "ja": "第2部3章でキリークがとどめを刺す。",
+      "en": "Have Creek land the final blow in Part II, Chapter 3."
+    },
+    "portrait_file": "later-portraits/nathan.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/183355_70naz.webp"
+  },
+  {
+    "zh": "森图里奥",
+    "en": "Centurio",
+    "ja": "セントリオン",
+    "notes": {
+      "zh": "第 3 部第 2 节完成 Rescue Centurio 后加入。",
+      "ja": "第3部・第2区分で Rescue Centurio を完了。",
+      "en": "Complete Rescue Centurio in Part III, Section 2."
+    },
+    "portrait_file": "later-portraits/centurio.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/115601_4oi59.webp"
+  },
+  {
+    "zh": "红花",
+    "en": "Hong Hua",
+    "ja": "コウカ",
+    "notes": {
+      "zh": "序章及第 3 部自动加入；不参与第 1 部四路线招募比较。",
+      "ja": "序幕と第3部で自動加入。第1部のルート比較対象外。",
+      "en": "Automatic in the Prologue and Part III; outside Part I recruitment comparisons."
+    },
+    "portrait_file": "later-portraits/hong-hua.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/123043_ztf6d.webp"
+  },
+  {
+    "zh": "特洛伊",
+    "en": "Troy",
+    "ja": "トロイア",
+    "notes": {
+      "zh": "序章及第 3 部自动加入；不参与第 1 部四路线招募比较。",
+      "ja": "序幕と第3部で自動加入。第1部のルート比較対象外。",
+      "en": "Automatic in the Prologue and Part III; outside Part I recruitment comparisons."
+    },
+    "portrait_file": "later-portraits/troy.webp",
+    "portrait_source": "https://appmedia.jp/wp-content/uploads/2026/09/123043_ycxun.webp"
+  },
+  {
+    "zh": "阿斯旺",
+    "en": "Aswan",
+    "ja": "アスワン",
+    "notes": {
+      "zh": "第 2 部第 3 章作为客座单位存活后，第 3 部第 5 节自动加入。",
+      "ja": "第2部3章のゲスト時に生存していれば、第3部・第5区分で自動加入。",
+      "en": "Automatic in Part III, Section 5 if they survive as a guest in Part II, Chapter 3."
+    },
+    "portrait_file": "later-portraits/aswan.png",
+    "portrait_source": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_76.png"
+  },
+  {
+    "zh": "塔霍妮娅",
+    "en": "Tahonia",
+    "ja": "タホウニア",
+    "notes": {
+      "zh": "第 2 部第 3 章作为客座单位存活后，第 3 部第 5 节自动加入。",
+      "ja": "第2部3章のゲスト時に生存していれば、第3部・第5区分で自動加入。",
+      "en": "Automatic in Part III, Section 5 if they survive as a guest in Part II, Chapter 3."
+    },
+    "portrait_file": "later-portraits/tahonia.png",
+    "portrait_source": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_77.png"
+  },
+  {
+    "zh": "克拉普卡",
+    "en": "Klapka",
+    "ja": "クラプカ",
+    "notes": {
+      "zh": "第 3 部第 5 节作为客座单位存活后，第 6 节自动加入。",
+      "ja": "第3部・第5区分のゲスト時に生存していれば、第6区分で自動加入。",
+      "en": "Automatic in Part III, Section 6 if he survives as a guest in Section 5."
+    },
+    "portrait_file": "later-portraits/klapka.png",
+    "portrait_source": "https://img.gamewith.jp/article_tools/fefw/gacha/chara_78.png"
+  }
+]

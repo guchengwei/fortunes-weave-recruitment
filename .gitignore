@@ -1,0 +1,5 @@
+dist/
+artifacts/offline/.fw-generated-output
+__pycache__/
+*.pyc
+.DS_Store

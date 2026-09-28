@@ -1,0 +1,840 @@
+{
+  "皮特鲁": {
+    "迪托利希": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "蕾达": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "乌尔坦德": {
+    "迪托利希": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "蕾达": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "凯伊": {
+      "zh": "第 6 章剧情加入。",
+      "ja": "第6章でストーリー加入。",
+      "en": "Joins through the story in Chapter 6."
+    }
+  },
+  "艾丝梅拉尔达": {
+    "凯伊": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。\n资料差异：攻略标为支援等级 3；此表与计算保留截图数值，待核实。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。\n資料の相違：攻略では支援レベル 3。表と計算は画像の数値を維持（要確認）。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them.\nSource discrepancy: the guide gives support level 3. The table and calculations retain the screenshot value, pending verification."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "蕾达": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "西提司": {
+    "凯伊": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "蕾达": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "露露蒂雅": {
+    "凯伊": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "迪托利希": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "蕾达": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "西洛可": {
+    "凯伊": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "迪托利希": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 1 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 1 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 1 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "杰斯塔": {
+    "凯伊": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    },
+    "迪托利希": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    },
+    "蕾达": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "奥琳琵娅": {
+    "凯伊": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    },
+    "迪托利希": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 3 个招募任务；攻略未列出具体任务名称。",
+      "ja": "スカウト用クエストを 3 件完了。攻略にはクエスト名の記載なし。",
+      "en": "Complete 3 recruitment quest(s); the guide does not name them."
+    }
+  },
+  "媞雅拉": {
+    "迪托利希": {
+      "zh": "完成凯伊外传，并支付 3,000G。",
+      "ja": "カイの外伝をクリアし、3,000G を支払う。",
+      "en": "Clear Cai’s paralogue and pay 3,000G."
+    },
+    "赛奥朵拉": {
+      "zh": "完成凯伊外传，并支付 3,000G。",
+      "ja": "カイの外伝をクリアし、3,000G を支払う。",
+      "en": "Clear Cai’s paralogue and pay 3,000G."
+    },
+    "蕾达": {
+      "zh": "完成凯伊外传，并支付 3,000G。",
+      "ja": "カイの外伝をクリアし、3,000G を支払う。",
+      "en": "Clear Cai’s paralogue and pay 3,000G."
+    }
+  },
+  "盖茨": {
+    "迪托利希": {
+      "zh": "完成伯特兰外传“他们已败”；需等待其队伍被锦标赛淘汰，约第 12 章。",
+      "ja": "Bertrand の外伝「They Have Lost」をクリア。彼のチームが大会で敗退するまで待つ（第12章頃）。",
+      "en": "Clear Bertrand’s paralogue “They Have Lost”; wait for his team to leave the tournament, around Chapter 12."
+    }
+  },
+  "法毕欧": {
+    "蕾达": {
+      "zh": "完成迪托利希外传“他们已败”；需等待其队伍被淘汰，约第 12 章，并交付合适道具。攻略作者使用了 Da Mina 武器，未说明是否为唯一选择。",
+      "ja": "ディートリヒの外伝「They Have Lost」をクリア。チーム敗退後（第12章頃）、適切なアイテムを渡す。攻略筆者は Da Mina 武器で成功。他の選択肢は未確認。",
+      "en": "Clear Dietrich’s paralogue “They Have Lost”; wait for his team’s elimination, around Chapter 12, and offer a suitable item. The guide author used a Da Mina weapon; alternatives are unspecified."
+    }
+  },
+  "哥莱亚斯": {
+    "凯伊": {
+      "zh": "巨人肉 × 3（Giant’s Meat）。",
+      "ja": "Giant’s Meat × 3 を渡す。",
+      "en": "Give 3 × Giant’s Meat."
+    },
+    "迪托利希": {
+      "zh": "巨人肉 × 3（Giant’s Meat）。",
+      "ja": "Giant’s Meat × 3 を渡す。",
+      "en": "Give 3 × Giant’s Meat."
+    },
+    "赛奥朵拉": {
+      "zh": "巨人肉 × 3（Giant’s Meat）。",
+      "ja": "Giant’s Meat × 3 を渡す。",
+      "en": "Give 3 × Giant’s Meat."
+    },
+    "蕾达": {
+      "zh": "巨人肉 × 3（Giant’s Meat）。",
+      "ja": "Giant’s Meat × 3 を渡す。",
+      "en": "Give 3 × Giant’s Meat."
+    }
+  },
+  "罗蕾塔": {
+    "凯伊": {
+      "zh": "铁剑 × 3（Iron Sword）。",
+      "ja": "Iron Sword × 3 を渡す。",
+      "en": "Give 3 × Iron Sword."
+    },
+    "迪托利希": {
+      "zh": "铁剑 × 3（Iron Sword）。",
+      "ja": "Iron Sword × 3 を渡す。",
+      "en": "Give 3 × Iron Sword."
+    },
+    "赛奥朵拉": {
+      "zh": "铁剑 × 3（Iron Sword）。",
+      "ja": "Iron Sword × 3 を渡す。",
+      "en": "Give 3 × Iron Sword."
+    },
+    "蕾达": {
+      "zh": "铁剑 × 3（Iron Sword）。",
+      "ja": "Iron Sword × 3 を渡す。",
+      "en": "Give 3 × Iron Sword."
+    }
+  },
+  "妮涅": {
+    "凯伊": {
+      "zh": "天堂鱼 × 1（Paradise Fish）。",
+      "ja": "Paradise Fish × 1 を渡す。",
+      "en": "Give 1 × Paradise Fish."
+    },
+    "迪托利希": {
+      "zh": "天堂鱼 × 1（Paradise Fish）。",
+      "ja": "Paradise Fish × 1 を渡す。",
+      "en": "Give 1 × Paradise Fish."
+    },
+    "赛奥朵拉": {
+      "zh": "天堂鱼 × 1（Paradise Fish）。",
+      "ja": "Paradise Fish × 1 を渡す。",
+      "en": "Give 1 × Paradise Fish."
+    },
+    "蕾达": {
+      "zh": "天堂鱼 × 1（Paradise Fish）。\n资料差异：攻略标为名声 6；此表与计算保留截图数值，待核实。",
+      "ja": "Paradise Fish × 1 を渡す。\n資料の相違：攻略では名声 6。表と計算は画像の数値を維持（要確認）。",
+      "en": "Give 1 × Paradise Fish.\nSource discrepancy: the guide gives renown 6. The table and calculations retain the screenshot value, pending verification."
+    }
+  },
+  "莱桑达": {
+    "凯伊": {
+      "zh": "铁枪 × 5（Iron Spear）。",
+      "ja": "Iron Spear × 5 を渡す。",
+      "en": "Give 5 × Iron Spear."
+    },
+    "迪托利希": {
+      "zh": "铁枪 × 5（Iron Spear）。",
+      "ja": "Iron Spear × 5 を渡す。",
+      "en": "Give 5 × Iron Spear."
+    },
+    "蕾达": {
+      "zh": "铁枪 × 5（Iron Spear）。",
+      "ja": "Iron Spear × 5 を渡す。",
+      "en": "Give 5 × Iron Spear."
+    }
+  },
+  "穆": {
+    "凯伊": {
+      "zh": "Glirmosa × 3（Glirmosa）。",
+      "ja": "Glirmosa × 3 を渡す。",
+      "en": "Give 3 × Glirmosa."
+    },
+    "迪托利希": {
+      "zh": "Glirmosa × 3（Glirmosa）。",
+      "ja": "Glirmosa × 3 を渡す。",
+      "en": "Give 3 × Glirmosa."
+    },
+    "赛奥朵拉": {
+      "zh": "Glirmosa × 3（Glirmosa）。",
+      "ja": "Glirmosa × 3 を渡す。",
+      "en": "Give 3 × Glirmosa."
+    }
+  },
+  "哪吒": {
+    "凯伊": {
+      "zh": "沙虫肉 × 3（Sandworm Meat）。",
+      "ja": "Sandworm Meat × 3 を渡す。",
+      "en": "Give 3 × Sandworm Meat."
+    },
+    "迪托利希": {
+      "zh": "沙虫肉 × 3（Sandworm Meat）。",
+      "ja": "Sandworm Meat × 3 を渡す。",
+      "en": "Give 3 × Sandworm Meat."
+    },
+    "赛奥朵拉": {
+      "zh": "沙虫肉 × 3（Sandworm Meat）。\n资料差异：攻略标为支援等级 2；此表与计算保留截图数值，待核实。",
+      "ja": "Sandworm Meat × 3 を渡す。\n資料の相違：攻略では支援レベル 2。表と計算は画像の数値を維持（要確認）。",
+      "en": "Give 3 × Sandworm Meat.\nSource discrepancy: the guide gives support level 2. The table and calculations retain the screenshot value, pending verification."
+    },
+    "蕾达": {
+      "zh": "沙虫肉 × 3（Sandworm Meat）。",
+      "ja": "Sandworm Meat × 3 を渡す。",
+      "en": "Give 3 × Sandworm Meat."
+    }
+  },
+  "大刀": {
+    "凯伊": {
+      "zh": "Kothar Gar × 2（Kothar Gar）。\n资料差异：攻略标为名声 7；此表与计算保留截图数值，待核实。",
+      "ja": "Kothar Gar × 2 を渡す。\n資料の相違：攻略では名声 7。表と計算は画像の数値を維持（要確認）。",
+      "en": "Give 2 × Kothar Gar.\nSource discrepancy: the guide gives renown 7. The table and calculations retain the screenshot value, pending verification."
+    },
+    "迪托利希": {
+      "zh": "Kothar Gar × 2（Kothar Gar）。",
+      "ja": "Kothar Gar × 2 を渡す。",
+      "en": "Give 2 × Kothar Gar."
+    },
+    "赛奥朵拉": {
+      "zh": "Kothar Gar × 2（Kothar Gar）。",
+      "ja": "Kothar Gar × 2 を渡す。",
+      "en": "Give 2 × Kothar Gar."
+    },
+    "蕾达": {
+      "zh": "Kothar Gar × 2（Kothar Gar）。",
+      "ja": "Kothar Gar × 2 を渡す。",
+      "en": "Give 2 × Kothar Gar."
+    }
+  },
+  "哈尔温": {
+    "凯伊": {
+      "zh": "椰枣 × 10（Dates）。\n资料差异：攻略标为名声 9；此表与计算保留截图数值，待核实。",
+      "ja": "Dates × 10 を渡す。\n資料の相違：攻略では名声 9。表と計算は画像の数値を維持（要確認）。",
+      "en": "Give 10 × Dates.\nSource discrepancy: the guide gives renown 9. The table and calculations retain the screenshot value, pending verification."
+    },
+    "迪托利希": {
+      "zh": "椰枣 × 10（Dates）。",
+      "ja": "Dates × 10 を渡す。",
+      "en": "Give 10 × Dates."
+    },
+    "赛奥朵拉": {
+      "zh": "椰枣 × 10（Dates）。",
+      "ja": "Dates × 10 を渡す。",
+      "en": "Give 10 × Dates."
+    },
+    "蕾达": {
+      "zh": "椰枣 × 10（Dates）。",
+      "ja": "Dates × 10 を渡す。",
+      "en": "Give 10 × Dates."
+    }
+  },
+  "丹提": {
+    "凯伊": {
+      "zh": "支付 8,000G。",
+      "ja": "8,000G を支払う。",
+      "en": "Pay 8,000G."
+    },
+    "迪托利希": {
+      "zh": "支付 8,000G。",
+      "ja": "8,000G を支払う。",
+      "en": "Pay 8,000G."
+    },
+    "赛奥朵拉": {
+      "zh": "支付 8,000G。",
+      "ja": "8,000G を支払う。",
+      "en": "Pay 8,000G."
+    },
+    "蕾达": {
+      "zh": "支付 8,000G。",
+      "ja": "8,000G を支払う。",
+      "en": "Pay 8,000G."
+    }
+  },
+  "米迦艾拉": {
+    "凯伊": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    },
+    "赛奥朵拉": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    },
+    "蕾达": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    }
+  },
+  "莉利安": {
+    "凯伊": {
+      "zh": "支付 5,000G。",
+      "ja": "5,000G を支払う。",
+      "en": "Pay 5,000G."
+    },
+    "迪托利希": {
+      "zh": "支付 5,000G。",
+      "ja": "5,000G を支払う。",
+      "en": "Pay 5,000G."
+    },
+    "蕾达": {
+      "zh": "支付 5,000G。",
+      "ja": "5,000G を支払う。",
+      "en": "Pay 5,000G."
+    }
+  },
+  "绯亚娜": {
+    "凯伊": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    },
+    "迪托利希": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    },
+    "赛奥朵拉": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    },
+    "蕾达": {
+      "zh": "支付 3,000G。",
+      "ja": "3,000G を支払う。",
+      "en": "Pay 3,000G."
+    }
+  },
+  "伊欧": {
+    "凯伊": {
+      "zh": "支付 4,000G。",
+      "ja": "4,000G を支払う。",
+      "en": "Pay 4,000G."
+    },
+    "迪托利希": {
+      "zh": "支付 800G。",
+      "ja": "800G を支払う。",
+      "en": "Pay 800G."
+    },
+    "赛奥朵拉": {
+      "zh": "支付 4,000G。",
+      "ja": "4,000G を支払う。",
+      "en": "Pay 4,000G."
+    },
+    "蕾达": {
+      "zh": "支付 1,500G。",
+      "ja": "1,500G を支払う。",
+      "en": "Pay 1,500G."
+    }
+  },
+  "易尼奥尼": {
+    "凯伊": {
+      "zh": "支付 6,000G。\n游戏内约 7 月 10 日出现。\n资料差异：攻略标为支援等级 3；此表与计算保留截图数值，待核实。",
+      "ja": "6,000G を支払う。\nゲーム内の 7 月 10 日頃に出現。\n資料の相違：攻略では支援レベル 3。表と計算は画像の数値を維持（要確認）。",
+      "en": "Pay 6,000G.\nAppears around 7/10 (month/day) in-game.\nSource discrepancy: the guide gives support level 3. The table and calculations retain the screenshot value, pending verification."
+    },
+    "迪托利希": {
+      "zh": "支付 6,000G。\n游戏内约 7 月 10 日出现。",
+      "ja": "6,000G を支払う。\nゲーム内の 7 月 10 日頃に出現。",
+      "en": "Pay 6,000G.\nAppears around 7/10 (month/day) in-game."
+    },
+    "赛奥朵拉": {
+      "zh": "支付 4,000G。\n游戏内约 7 月 10 日出现。",
+      "ja": "4,000G を支払う。\nゲーム内の 7 月 10 日頃に出現。",
+      "en": "Pay 4,000G.\nAppears around 7/10 (month/day) in-game."
+    },
+    "蕾达": {
+      "zh": "支付 3,000G。\n游戏内约 7 月 10 日出现。",
+      "ja": "3,000G を支払う。\nゲーム内の 7 月 10 日頃に出現。",
+      "en": "Pay 3,000G.\nAppears around 7/10 (month/day) in-game."
+    }
+  },
+  "嘉丝敏": {
+    "凯伊": {
+      "zh": "支付 2,000G。\n游戏内约 5 月 8 日出现。",
+      "ja": "2,000G を支払う。\nゲーム内の 5 月 8 日頃に出現。",
+      "en": "Pay 2,000G.\nAppears around 5/8 (month/day) in-game."
+    },
+    "迪托利希": {
+      "zh": "支付 5,000G。\n游戏内约 5 月 8 日出现。",
+      "ja": "5,000G を支払う。\nゲーム内の 5 月 8 日頃に出現。",
+      "en": "Pay 5,000G.\nAppears around 5/8 (month/day) in-game."
+    },
+    "赛奥朵拉": {
+      "zh": "支付 5,000G。\n游戏内约 5 月 8 日出现。",
+      "ja": "5,000G を支払う。\nゲーム内の 5 月 8 日頃に出現。",
+      "en": "Pay 5,000G.\nAppears around 5/8 (month/day) in-game."
+    },
+    "蕾达": {
+      "zh": "支付 500G。\n游戏内约 5 月 8 日出现。",
+      "ja": "500G を支払う。\nゲーム内の 5 月 8 日頃に出現。",
+      "en": "Pay 500G.\nAppears around 5/8 (month/day) in-game."
+    }
+  },
+  "迪雅各": {
+    "凯伊": {
+      "zh": "完成 Orchel 的外传。",
+      "ja": "Orchel の外伝をクリア。",
+      "en": "Clear Orchel’s paralogue."
+    },
+    "迪托利希": {
+      "zh": "完成 Orchel 的外传。",
+      "ja": "Orchel の外伝をクリア。",
+      "en": "Clear Orchel’s paralogue."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 Orchel 的外传。",
+      "ja": "Orchel の外伝をクリア。",
+      "en": "Clear Orchel’s paralogue."
+    },
+    "蕾达": {
+      "zh": "完成 Orchel 的外传。",
+      "ja": "Orchel の外伝をクリア。",
+      "en": "Clear Orchel’s paralogue."
+    }
+  },
+  "佩佩": {
+    "凯伊": {
+      "zh": "完成 Bertrand 的外传。",
+      "ja": "Bertrand の外伝をクリア。",
+      "en": "Clear Bertrand’s paralogue."
+    },
+    "迪托利希": {
+      "zh": "完成 Bertrand 的外传。",
+      "ja": "Bertrand の外伝をクリア。",
+      "en": "Clear Bertrand’s paralogue."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 Bertrand 的外传。",
+      "ja": "Bertrand の外伝をクリア。",
+      "en": "Clear Bertrand’s paralogue."
+    }
+  },
+  "巴卡尼亚": {
+    "迪托利希": {
+      "zh": "完成 Leda 的外传。",
+      "ja": "Leda の外伝をクリア。",
+      "en": "Clear Leda’s paralogue."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 Leda 的外传。",
+      "ja": "Leda の外伝をクリア。",
+      "en": "Clear Leda’s paralogue."
+    }
+  },
+  "乌修拉": {
+    "凯伊": {
+      "zh": "完成 Talimun 外传，连续三次回答“是”。",
+      "ja": "Talimun の外伝をクリアし、3回とも「はい」と答える。",
+      "en": "Clear Talimun’s paralogue and answer Yes three times."
+    },
+    "迪托利希": {
+      "zh": "完成 Talimun 外传，连续三次回答“是”。",
+      "ja": "Talimun の外伝をクリアし、3回とも「はい」と答える。",
+      "en": "Clear Talimun’s paralogue and answer Yes three times."
+    },
+    "赛奥朵拉": {
+      "zh": "完成 Talimun 外传，连续三次回答“是”。",
+      "ja": "Talimun の外伝をクリアし、3回とも「はい」と答える。",
+      "en": "Clear Talimun’s paralogue and answer Yes three times."
+    }
+  },
+  "希蒙": {
+    "凯伊": {
+      "zh": "掷硬币时选择反面（Tails）。",
+      "ja": "コイントスで裏（Tails）を選ぶ。",
+      "en": "Choose Tails for the coin toss."
+    },
+    "迪托利希": {
+      "zh": "掷硬币时选择反面（Tails）。",
+      "ja": "コイントスで裏（Tails）を選ぶ。",
+      "en": "Choose Tails for the coin toss."
+    },
+    "赛奥朵拉": {
+      "zh": "掷硬币时选择反面（Tails）。",
+      "ja": "コイントスで裏（Tails）を選ぶ。",
+      "en": "Choose Tails for the coin toss."
+    },
+    "蕾达": {
+      "zh": "掷硬币时选择反面（Tails）。",
+      "ja": "コイントスで裏（Tails）を選ぶ。",
+      "en": "Choose Tails for the coin toss."
+    }
+  },
+  "沙兰": {
+    "迪托利希": {
+      "zh": "完成 Anatolia 外传；问题依次回答 Saramis、Da Mina、Grounded Ship。",
+      "ja": "Anatolia の外伝をクリア。回答順：Saramis → Da Mina → Grounded Ship。",
+      "en": "Clear Anatolia’s paralogue. Answers in order: Saramis → Da Mina → Grounded Ship."
+    },
+    "蕾达": {
+      "zh": "完成 Anatolia 外传；问题依次回答 Saramis、Da Mina、Grounded Ship。",
+      "ja": "Anatolia の外伝をクリア。回答順：Saramis → Da Mina → Grounded Ship。",
+      "en": "Clear Anatolia’s paralogue. Answers in order: Saramis → Da Mina → Grounded Ship."
+    }
+  },
+  "杨界": {
+    "凯伊": {
+      "zh": "问题依次回答：奶酪、月亮、土豆（Cheese → Moon → Potatoes）。",
+      "ja": "回答順：チーズ → 月 → ジャガイモ（Cheese → Moon → Potatoes）。",
+      "en": "Answers in order: Cheese → Moon → Potatoes."
+    },
+    "赛奥朵拉": {
+      "zh": "问题依次回答：奶酪、月亮、土豆（Cheese → Moon → Potatoes）。",
+      "ja": "回答順：チーズ → 月 → ジャガイモ（Cheese → Moon → Potatoes）。",
+      "en": "Answers in order: Cheese → Moon → Potatoes."
+    },
+    "蕾达": {
+      "zh": "问题依次回答：奶酪、月亮、土豆（Cheese → Moon → Potatoes）。",
+      "ja": "回答順：チーズ → 月 → ジャガイモ（Cheese → Moon → Potatoes）。",
+      "en": "Answers in order: Cheese → Moon → Potatoes."
+    }
+  },
+  "札可捏": {
+    "凯伊": {
+      "zh": "交涉招募费用；攻略称可压价至 10G。",
+      "ja": "加入費用を交渉する。攻略では 10G まで値下げ可能。",
+      "en": "Negotiate the fee; the guide reports it can be reduced to 10G."
+    },
+    "迪托利希": {
+      "zh": "交涉招募费用；攻略称可压价至 10G。",
+      "ja": "加入費用を交渉する。攻略では 10G まで値下げ可能。",
+      "en": "Negotiate the fee; the guide reports it can be reduced to 10G."
+    },
+    "赛奥朵拉": {
+      "zh": "交涉招募费用；攻略称可压价至 10G。",
+      "ja": "加入費用を交渉する。攻略では 10G まで値下げ可能。",
+      "en": "Negotiate the fee; the guide reports it can be reduced to 10G."
+    },
+    "蕾达": {
+      "zh": "交涉招募费用；攻略称可压价至 10G。",
+      "ja": "加入費用を交渉する。攻略では 10G まで値下げ可能。",
+      "en": "Negotiate the fee; the guide reports it can be reduced to 10G."
+    }
+  },
+  "马吉迪": {
+    "凯伊": {
+      "zh": "回答问题三次后获认可；攻略未指定答案。",
+      "ja": "質問に3回答えて認めてもらう。攻略には答えの指定なし。",
+      "en": "Answer the question three times to gain acceptance; no specific answer is listed."
+    },
+    "迪托利希": {
+      "zh": "回答问题三次后获认可；攻略未指定答案。",
+      "ja": "質問に3回答えて認めてもらう。攻略には答えの指定なし。",
+      "en": "Answer the question three times to gain acceptance; no specific answer is listed."
+    },
+    "赛奥朵拉": {
+      "zh": "回答问题三次后获认可；攻略未指定答案。",
+      "ja": "質問に3回答えて認めてもらう。攻略には答えの指定なし。",
+      "en": "Answer the question three times to gain acceptance; no specific answer is listed."
+    },
+    "蕾达": {
+      "zh": "回答问题三次后获认可；攻略未指定答案。",
+      "ja": "質問に3回答えて認めてもらう。攻略には答えの指定なし。",
+      "en": "Answer the question three times to gain acceptance; no specific answer is listed."
+    }
+  },
+  "努蒂奴": {
+    "凯伊": {
+      "zh": "青铜斧 × 2（Bronze Axe）。",
+      "ja": "Bronze Axe × 2 を渡す。",
+      "en": "Give 2 × Bronze Axe."
+    },
+    "迪托利希": {
+      "zh": "青铜斧 × 2（Bronze Axe）。",
+      "ja": "Bronze Axe × 2 を渡す。",
+      "en": "Give 2 × Bronze Axe."
+    },
+    "赛奥朵拉": {
+      "zh": "铁斧 × 3（Iron Axe）。",
+      "ja": "Iron Axe × 3 を渡す。",
+      "en": "Give 3 × Iron Axe."
+    },
+    "蕾达": {
+      "zh": "铁斧 × 3（Iron Axe）。",
+      "ja": "Iron Axe × 3 を渡す。",
+      "en": "Give 3 × Iron Axe."
+    }
+  },
+  "努佐": {
+    "凯伊": {
+      "zh": "铁弓 × 3（Iron Bow）。\n游戏内约 7 月 1 日出现。",
+      "ja": "Iron Bow × 3 を渡す。\nゲーム内の 7 月 1 日頃に出現。",
+      "en": "Give 3 × Iron Bow.\nAppears around 7/1 (month/day) in-game."
+    },
+    "迪托利希": {
+      "zh": "铁弓 × 2（Iron Bow）。\n游戏内约 7 月 1 日出现。",
+      "ja": "Iron Bow × 2 を渡す。\nゲーム内の 7 月 1 日頃に出現。",
+      "en": "Give 2 × Iron Bow.\nAppears around 7/1 (month/day) in-game."
+    },
+    "赛奥朵拉": {
+      "zh": "铁弓 × 3（Iron Bow）。\n游戏内约 7 月 1 日出现。",
+      "ja": "Iron Bow × 3 を渡す。\nゲーム内の 7 月 1 日頃に出現。",
+      "en": "Give 3 × Iron Bow.\nAppears around 7/1 (month/day) in-game."
+    },
+    "蕾达": {
+      "zh": "铁弓 × 3（Iron Bow）。\n游戏内约 7 月 1 日出现。",
+      "ja": "Iron Bow × 3 を渡す。\nゲーム内の 7 月 1 日頃に出現。",
+      "en": "Give 3 × Iron Bow.\nAppears around 7/1 (month/day) in-game."
+    }
+  },
+  "奇洛伊卡": {
+    "凯伊": {
+      "zh": "圣水 × 8（Pure Water）。\n游戏内约 5 月 4 日出现。",
+      "ja": "Pure Water × 8 を渡す。\nゲーム内の 5 月 4 日頃に出現。",
+      "en": "Give 8 × Pure Water.\nAppears around 5/4 (month/day) in-game."
+    },
+    "迪托利希": {
+      "zh": "圣水 × 3（Pure Water）。\n游戏内约 5 月 4 日出现。",
+      "ja": "Pure Water × 3 を渡す。\nゲーム内の 5 月 4 日頃に出現。",
+      "en": "Give 3 × Pure Water.\nAppears around 5/4 (month/day) in-game."
+    },
+    "赛奥朵拉": {
+      "zh": "圣水 × 8（Pure Water）。\n游戏内约 5 月 4 日出现。",
+      "ja": "Pure Water × 8 を渡す。\nゲーム内の 5 月 4 日頃に出現。",
+      "en": "Give 8 × Pure Water.\nAppears around 5/4 (month/day) in-game."
+    },
+    "蕾达": {
+      "zh": "圣水 × 3（Pure Water）。\n游戏内约 5 月 4 日出现。",
+      "ja": "Pure Water × 3 を渡す。\nゲーム内の 5 月 4 日頃に出現。",
+      "en": "Give 3 × Pure Water.\nAppears around 5/4 (month/day) in-game."
+    }
+  },
+  "诺克裘拉": {
+    "凯伊": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "迪托利希": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "赛奥朵拉": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "蕾达": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    }
+  },
+  "亚历珊德拉": {
+    "凯伊": {
+      "zh": "攻略未列出其他条件。\n游戏内约 5 月 29 日出现。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 5 月 29 日頃に出現。",
+      "en": "The guide lists no additional conditions.\nAppears around 5/29 (month/day) in-game."
+    },
+    "迪托利希": {
+      "zh": "攻略未列出其他条件。\n游戏内约 5 月 29 日出现。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 5 月 29 日頃に出現。",
+      "en": "The guide lists no additional conditions.\nAppears around 5/29 (month/day) in-game."
+    },
+    "赛奥朵拉": {
+      "zh": "攻略未列出其他条件。\n游戏内约 5 月 29 日出现。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 5 月 29 日頃に出現。",
+      "en": "The guide lists no additional conditions.\nAppears around 5/29 (month/day) in-game."
+    },
+    "蕾达": {
+      "zh": "攻略未列出其他条件。\n游戏内约 5 月 29 日出现。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 5 月 29 日頃に出現。",
+      "en": "The guide lists no additional conditions.\nAppears around 5/29 (month/day) in-game."
+    }
+  },
+  "班迪兹": {
+    "凯伊": {
+      "zh": "攻略未列出其他条件。\n游戏内约 4 月 11 日出现。地点：Dagsion。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 4 月 11 日頃に出現。場所：Dagsion。",
+      "en": "The guide lists no additional conditions.\nAppears around 4/11 (month/day) in-game. Location: Dagsion."
+    },
+    "迪托利希": {
+      "zh": "攻略未列出其他条件。\n游戏内约 4 月 11 日出现。地点：Dagsion。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 4 月 11 日頃に出現。場所：Dagsion。",
+      "en": "The guide lists no additional conditions.\nAppears around 4/11 (month/day) in-game. Location: Dagsion."
+    },
+    "赛奥朵拉": {
+      "zh": "攻略未列出其他条件。\n游戏内约 4 月 11 日出现。地点：Dagsion。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 4 月 11 日頃に出現。場所：Dagsion。",
+      "en": "The guide lists no additional conditions.\nAppears around 4/11 (month/day) in-game. Location: Dagsion."
+    },
+    "蕾达": {
+      "zh": "攻略未列出其他条件。\n游戏内约 4 月 11 日出现。地点：Dagsion。",
+      "ja": "攻略には追加条件の記載なし。\nゲーム内の 4 月 11 日頃に出現。場所：Dagsion。",
+      "en": "The guide lists no additional conditions.\nAppears around 4/11 (month/day) in-game. Location: Dagsion."
+    }
+  },
+  "索绯雅": {
+    "凯伊": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "迪托利希": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "蕾达": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    }
+  },
+  "卡塔妮雅": {
+    "凯伊": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "迪托利希": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "赛奥朵拉": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    }
+  },
+  "古扎岚": {
+    "迪托利希": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "赛奥朵拉": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    },
+    "蕾达": {
+      "zh": "攻略未列出其他条件。",
+      "ja": "攻略には追加条件の記載なし。",
+      "en": "The guide lists no additional conditions."
+    }
+  }
+}

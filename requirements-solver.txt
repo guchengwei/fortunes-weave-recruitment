@@ -1,0 +1,4 @@
+# Optional: only needed to regenerate recruitment plans, not to build the site.
+# Versions used for the checked-in support-level correction.
+numpy==2.5.3
+scipy==1.18.1
