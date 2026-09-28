@@ -30,6 +30,12 @@ Recruitment conditions are based on the recruitment tables dated September 22, 2
 
 This is an unofficial fan tool. Game names and character artwork belong to their respective rights holders. The decorative four-faction seal is an AI-generated interpretation of the coaster artwork.
 
+## License
+
+Original code and documentation are available under the [MIT License](LICENSE).
+
+Game character images, names, logos and other third-party materials are excluded from this license and remain the property of their respective rights holders. This also applies to third-party material embedded in the generated HTML and offline editions. No rights to those materials are granted by this project.
+
 <details>
 <summary>Build and test the site</summary>
 
