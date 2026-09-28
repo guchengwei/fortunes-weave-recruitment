@@ -1,0 +1,34 @@
+{
+  "dataVersion": "d1fb224e6b4e5be80f8b9f6d3b27a32b4d8ea6105610db44a140b5b3f83fc43a",
+  "defaultBasePlanId": "p-c58caacbfac49668",
+  "siteFiles": [
+    ".nojekyll",
+    "assets/share-card.svg",
+    "assets/site-icon.webp",
+    "en.html",
+    "en/methods.html",
+    "en/routes/cai.html",
+    "en/routes/dietrich.html",
+    "en/routes/leda.html",
+    "en/routes/theodora.html",
+    "index.html",
+    "ja.html",
+    "ja/methods.html",
+    "ja/routes/cai.html",
+    "ja/routes/dietrich.html",
+    "ja/routes/leda.html",
+    "ja/routes/theodora.html",
+    "methods.html",
+    "routes/cai.html",
+    "routes/dietrich.html",
+    "routes/leda.html",
+    "routes/theodora.html",
+    "sitemap.xml",
+    "build-manifest.json"
+  ],
+  "offlineFiles": [
+    "recruitment-planner-en.html",
+    "recruitment-planner-ja.html",
+    "recruitment-planner.html"
+  ]
+}

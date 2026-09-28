@@ -1,0 +1,398 @@
+{
+  "routes": [
+    {
+      "id": "cai",
+      "sourceName": "凯伊",
+      "index": 0
+    },
+    {
+      "id": "dietrich",
+      "sourceName": "迪托利希",
+      "index": 1
+    },
+    {
+      "id": "theodora",
+      "sourceName": "赛奥朵拉",
+      "index": 2
+    },
+    {
+      "id": "leda",
+      "sourceName": "蕾达",
+      "index": 3
+    }
+  ],
+  "characters": [
+    {
+      "id": "c-000",
+      "sourceName": "凯伊",
+      "rank": 0,
+      "scope": "part1"
+    },
+    {
+      "id": "c-001",
+      "sourceName": "媞雅拉",
+      "rank": 1,
+      "scope": "part1"
+    },
+    {
+      "id": "c-002",
+      "sourceName": "皮特鲁",
+      "rank": 2,
+      "scope": "part1"
+    },
+    {
+      "id": "c-003",
+      "sourceName": "乌尔坦德",
+      "rank": 3,
+      "scope": "part1"
+    },
+    {
+      "id": "c-004",
+      "sourceName": "迪托利希",
+      "rank": 4,
+      "scope": "part1"
+    },
+    {
+      "id": "c-005",
+      "sourceName": "法毕欧",
+      "rank": 5,
+      "scope": "part1"
+    },
+    {
+      "id": "c-006",
+      "sourceName": "艾丝梅拉尔达",
+      "rank": 6,
+      "scope": "part1"
+    },
+    {
+      "id": "c-007",
+      "sourceName": "米迦艾拉",
+      "rank": 7,
+      "scope": "part1"
+    },
+    {
+      "id": "c-008",
+      "sourceName": "赛奥朵拉",
+      "rank": 8,
+      "scope": "part1"
+    },
+    {
+      "id": "c-009",
+      "sourceName": "托比亚斯",
+      "rank": 9,
+      "scope": "part1"
+    },
+    {
+      "id": "c-010",
+      "sourceName": "波拿帕尔特",
+      "rank": 10,
+      "scope": "part1"
+    },
+    {
+      "id": "c-011",
+      "sourceName": "莉利安",
+      "rank": 11,
+      "scope": "part1"
+    },
+    {
+      "id": "c-012",
+      "sourceName": "莱桑达",
+      "rank": 12,
+      "scope": "part1"
+    },
+    {
+      "id": "c-013",
+      "sourceName": "蕾达",
+      "rank": 13,
+      "scope": "part1"
+    },
+    {
+      "id": "c-014",
+      "sourceName": "巴卡尼亚",
+      "rank": 14,
+      "scope": "part1"
+    },
+    {
+      "id": "c-015",
+      "sourceName": "西洛可",
+      "rank": 15,
+      "scope": "part1"
+    },
+    {
+      "id": "c-016",
+      "sourceName": "穆",
+      "rank": 16,
+      "scope": "part1"
+    },
+    {
+      "id": "c-017",
+      "sourceName": "奥琳琵娅",
+      "rank": 17,
+      "scope": "part1"
+    },
+    {
+      "id": "c-018",
+      "sourceName": "卡塔妮雅",
+      "rank": 18,
+      "scope": "part1"
+    },
+    {
+      "id": "c-019",
+      "sourceName": "古扎岚",
+      "rank": 19,
+      "scope": "part1"
+    },
+    {
+      "id": "c-020",
+      "sourceName": "索绯雅",
+      "rank": 20,
+      "scope": "part1"
+    },
+    {
+      "id": "c-021",
+      "sourceName": "杨界",
+      "rank": 21,
+      "scope": "part1"
+    },
+    {
+      "id": "c-022",
+      "sourceName": "伊欧",
+      "rank": 22,
+      "scope": "part1"
+    },
+    {
+      "id": "c-023",
+      "sourceName": "诺克裘拉",
+      "rank": 23,
+      "scope": "part1"
+    },
+    {
+      "id": "c-024",
+      "sourceName": "嘉丝敏",
+      "rank": 24,
+      "scope": "part1"
+    },
+    {
+      "id": "c-025",
+      "sourceName": "奇洛伊卡",
+      "rank": 25,
+      "scope": "part1"
+    },
+    {
+      "id": "c-026",
+      "sourceName": "札可捏",
+      "rank": 26,
+      "scope": "part1"
+    },
+    {
+      "id": "c-027",
+      "sourceName": "大刀",
+      "rank": 27,
+      "scope": "part1"
+    },
+    {
+      "id": "c-028",
+      "sourceName": "绯亚娜",
+      "rank": 28,
+      "scope": "part1"
+    },
+    {
+      "id": "c-029",
+      "sourceName": "哈尔温",
+      "rank": 29,
+      "scope": "part1"
+    },
+    {
+      "id": "c-030",
+      "sourceName": "罗蕾塔",
+      "rank": 30,
+      "scope": "part1"
+    },
+    {
+      "id": "c-031",
+      "sourceName": "马吉迪",
+      "rank": 31,
+      "scope": "part1"
+    },
+    {
+      "id": "c-032",
+      "sourceName": "努蒂奴",
+      "rank": 32,
+      "scope": "part1"
+    },
+    {
+      "id": "c-033",
+      "sourceName": "亚历珊德拉",
+      "rank": 33,
+      "scope": "part1"
+    },
+    {
+      "id": "c-034",
+      "sourceName": "丹提",
+      "rank": 34,
+      "scope": "part1"
+    },
+    {
+      "id": "c-035",
+      "sourceName": "哥莱亚斯",
+      "rank": 35,
+      "scope": "part1"
+    },
+    {
+      "id": "c-036",
+      "sourceName": "杰斯塔",
+      "rank": 36,
+      "scope": "part1"
+    },
+    {
+      "id": "c-037",
+      "sourceName": "哪吒",
+      "rank": 37,
+      "scope": "part1"
+    },
+    {
+      "id": "c-038",
+      "sourceName": "妮涅",
+      "rank": 38,
+      "scope": "part1"
+    },
+    {
+      "id": "c-039",
+      "sourceName": "努佐",
+      "rank": 39,
+      "scope": "part1"
+    },
+    {
+      "id": "c-040",
+      "sourceName": "西提司",
+      "rank": 40,
+      "scope": "part1"
+    },
+    {
+      "id": "c-041",
+      "sourceName": "希蒙",
+      "rank": 41,
+      "scope": "part1"
+    },
+    {
+      "id": "c-042",
+      "sourceName": "班迪兹",
+      "rank": 42,
+      "scope": "part1"
+    },
+    {
+      "id": "c-043",
+      "sourceName": "易尼奥尼",
+      "rank": 43,
+      "scope": "part1"
+    },
+    {
+      "id": "c-044",
+      "sourceName": "露露蒂雅",
+      "rank": 44,
+      "scope": "part1"
+    },
+    {
+      "id": "c-045",
+      "sourceName": "佩佩",
+      "rank": 45,
+      "scope": "part1"
+    },
+    {
+      "id": "c-046",
+      "sourceName": "乌修拉",
+      "rank": 46,
+      "scope": "part1"
+    },
+    {
+      "id": "c-047",
+      "sourceName": "迪雅各",
+      "rank": 47,
+      "scope": "part1"
+    },
+    {
+      "id": "c-048",
+      "sourceName": "沙兰",
+      "rank": 48,
+      "scope": "part1"
+    },
+    {
+      "id": "c-049",
+      "sourceName": "盖茨",
+      "rank": 49,
+      "scope": "part1"
+    },
+    {
+      "id": "l-000",
+      "sourceName": "奥谢尔",
+      "rank": 50,
+      "scope": "reference"
+    },
+    {
+      "id": "l-001",
+      "sourceName": "塔利蒙",
+      "rank": 51,
+      "scope": "reference"
+    },
+    {
+      "id": "l-002",
+      "sourceName": "阿纳托利亚",
+      "rank": 52,
+      "scope": "reference"
+    },
+    {
+      "id": "l-003",
+      "sourceName": "贝特朗",
+      "rank": 53,
+      "scope": "reference"
+    },
+    {
+      "id": "l-004",
+      "sourceName": "克里克",
+      "rank": 54,
+      "scope": "reference"
+    },
+    {
+      "id": "l-005",
+      "sourceName": "内森",
+      "rank": 55,
+      "scope": "reference"
+    },
+    {
+      "id": "l-006",
+      "sourceName": "森图里奥",
+      "rank": 56,
+      "scope": "reference"
+    },
+    {
+      "id": "l-007",
+      "sourceName": "红花",
+      "rank": 57,
+      "scope": "reference"
+    },
+    {
+      "id": "l-008",
+      "sourceName": "特洛伊",
+      "rank": 58,
+      "scope": "reference"
+    },
+    {
+      "id": "l-009",
+      "sourceName": "阿斯旺",
+      "rank": 59,
+      "scope": "reference"
+    },
+    {
+      "id": "l-010",
+      "sourceName": "塔霍妮娅",
+      "rank": 60,
+      "scope": "reference"
+    },
+    {
+      "id": "l-011",
+      "sourceName": "克拉普卡",
+      "rank": 61,
+      "scope": "reference"
+    }
+  ]
+}
